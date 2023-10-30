@@ -1,9 +1,7 @@
 <h3> Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Analise e desenvolvimento de sistemas** no <a href="https://sc.senai.br/">Senai Norte I - JOINVILLE</a>.
 - 💼 &nbsp; Trabalho como **Desenvolvedor FullStack**
-- 🌱 &nbsp; Aprendendo mais sobre **Node.js**.
 - ⚙️ &nbsp; Especializado na construção de API e microsserviços
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
